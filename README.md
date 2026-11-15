@@ -9,7 +9,7 @@
 
 <h2> Project Summary</h2>
 
-- Perform Network Assessment and Analysis with Nmap and Wireshark in a laboratory environment
+- Performed Network Assessment and Analysis with Nmap and Wireshark in a laboratory environment
 
 <h2> Environments and Technologies Used </h2>
 
