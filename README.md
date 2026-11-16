@@ -25,7 +25,6 @@
 <p>
 <img width="959" height="435" alt="image" src="https://github.com/user-attachments/assets/bbff32bd-b553-478d-9c01-1c918dec0a01" />
 
-
 </p>
 <p>
 Analysis of MySQL protocol captured using Wireshark
@@ -40,5 +39,17 @@ Analysis of MySQL protocol captured using Wireshark
 Analysis of HTTP protocol captured using Wireshark
 </p>
 <br />
+
+<p>
+<img width="972" height="429" alt="image" src="https://github.com/user-attachments/assets/97ec9c6e-6f97-4c0a-be76-ab244d45630b" />
+  
+</p>
+<p>
+Analysis of Telnet protocol captured using Wireshark
+</p>
+<br />
+
+
+
 
 
