@@ -20,11 +20,11 @@
 - Command Prompts
 - Ports
 
-<h2>Scanning Results</h2>
+<h2>Analysis Results</h2>
 
 <p>
+<img width="959" height="435" alt="image" src="https://github.com/user-attachments/assets/bbff32bd-b553-478d-9c01-1c918dec0a01" />
 
-<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/dc93c7ce-5292-4ac4-8f8d-e4fb450c097d" />
 
 </p>
 <p>
