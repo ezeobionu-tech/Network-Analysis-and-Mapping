@@ -28,17 +28,16 @@
 
 </p>
 <p>
-Vulnerabilities found in a Linux OS VM
+Analysis of MySQL protocol captured using Wireshark
 </p>
 <br />
 
 <p>
-
-<img width="919" height="311" alt="image" src="https://github.com/user-attachments/assets/2250f0a1-fde3-4a44-924d-6c49d73fb445" />
+<img width="975" height="528" alt="image" src="https://github.com/user-attachments/assets/fedbed2e-1bf8-4aa6-9e53-838046b71444" />
 
 </p>
 <p>
-A vulnerability found in a Windows OS VM
+Analysis of HTTP protocol captured using Wireshark
 </p>
 <br />
 
